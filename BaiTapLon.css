@@ -1,4 +1,4 @@
-* ,::after, ::before{
+*,::after, ::before{
     box-sizing: border-box;
 }
 body, html {
@@ -155,7 +155,6 @@ form {
     border-radius: 0.36364em;
     top: 0;
 }
-
 
 #menu{
     background: #2cbde5;
